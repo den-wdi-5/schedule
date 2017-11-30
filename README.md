@@ -505,8 +505,6 @@ Weekly Goals:
 - Understand basic operations and web-dev IT
 - Improve Legacy Code
 
-# Schedule below is IN PROGRESS, it is SUBJECT TO CHANGE
-
 #### Week 11 - React, PHP and Developer-Chosen Topics/Projects (11/20-11/24)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
@@ -551,9 +549,9 @@ Weekly Goals:
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am** | Freelance Project | Lightning Talks Prep | Scrum | Scrum | Scrum |
-**11:00am** | Freelance Project | Lightning Talks Prep | Approvals | Project 4 | **Mock Interviews** / Project Work |
-**2:00pm** | Freelance Project | [**Lightning Talks**][12-1C] | Approvals | Project 4 | **Mock Interviews** / Project Work |
-**3:00pm** | Freelance Project | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | **Mock Interviews** / Project Work |
+**11:00am** | Freelance Project | Lightning Talks Prep | Approvals | **Mock Interviews** / Project Work | Project 4 |
+**2:00pm** | Freelance Project | [**Lightning Talks**][12-1C] | Approvals | **Mock Interviews** / Project Work | Project 4 |
+**3:00pm** | Freelance Project | [**Project 4 Intro** (Zeb)][12-1D] | Project 4  | **Mock Interviews** / Project Work | Project 4
 **Training** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project** | Project 4 | Project 4 | Project 4 | Project 4 |
 
 [12-1C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
@@ -573,7 +571,7 @@ Weekly Goals:
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am** | Scrum | Scrum | Make-up Project Work | NO | NO
-**11:00am** | Project 4 | Project Work | **Mock Interviews** | CLASS | CLASS
+**11:00am** | Project 4 | Project Work | **Peer Mock Interviews** | CLASS | CLASS
 **2:00pm** | Project 4 | **Project Presentations** | **Practice Showcase** | WORK | WORK
 **3:00pm** | Project 4 | **Project Presentations** | Final Survey, Certificates, and Recap (**Graduation**) | ON | ON
 **Training** | Project Work | Project Work | Happy Hour | PORTFOLIO | PORTFOLIO
