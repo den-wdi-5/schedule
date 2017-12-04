@@ -572,7 +572,7 @@ Time | Day 1                                 | Day 2                            
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am** | Scrum | Scrum | Make-up Project Work | NO | NO
 **11:00am** | Project 4 | Project Work | **Peer Mock Interviews** | CLASS | CLASS
-**2:00pm** | Project 4 | **Project Presentations** | **Practice Showcase** | WORK | WORK
+**2:00pm** | Project 4 | Project Work | **Practice Showcase** | WORK | WORK
 **3:00pm** | Project 4 | **Project Presentations** | Final Survey, Certificates, and Recap (**Graduation**) | ON | ON
 **Training** | Project Work | Project Work | Happy Hour | PORTFOLIO | PORTFOLIO
 
